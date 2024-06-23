@@ -1,0 +1,1 @@
+# A-generalized-multi-attention-Bi-LSTM-network-for-real-time-SoH-estimation-of-lithium-ion-batteries
